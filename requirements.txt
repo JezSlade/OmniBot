@@ -1,0 +1,12 @@
+discord.py
+openai
+sqlite3
+requests
+python-dotenv
+aiosqlite
+tqdm
+flask
+flask-cors
+flask-login
+flask-sqlalchemy
+jinja2
